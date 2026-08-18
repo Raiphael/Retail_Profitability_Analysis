@@ -41,7 +41,6 @@ A relational retail transaction dataset, provided as both CSVs and a SQLite data
 - **Python (pandas)** — transaction-level analysis, correlation testing
 - **Jupyter Notebook** — analysis environment
 - **Git / GitHub** — version control and publishing
-- *[Add matplotlib / seaborn / Excel here once you decide how you're visualizing]*
 
 ## Methodology
 1. Framed the business questions above before writing any queries
